@@ -9,3 +9,8 @@ document.write("Name:" + yourName);
 document.write("<br>Surname:" + yourSurname);
 document.write ("<br>Salary:" + totalSalary)
 
+
+console.log(yourName); 
+console.log(yourSurname);
+console.log(totalSalary);
+
